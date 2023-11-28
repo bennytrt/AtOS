@@ -18,3 +18,10 @@ AtOS is a C# written OS (Operating System) Using The Cosmos Operating System Dev
 - Current Build = 0.00006781B (STILL IN DEVELOPMENT
 
 --------------------------------------
+# SYSTEM REQUIREMENTS
+⚠ THESE ARE REQUIREMENTS AREN'T ACCURATE! ⚠
+
+- ANY SOCKET 462 or 478 (OR LATER) CPU
+- 64-128MB OF RAM (DOESN'T MATTER WHAT TYPE)
+- 512MB OF STORAGE (OR MORE)
+  --------------------------------------
