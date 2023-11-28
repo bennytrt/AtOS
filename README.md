@@ -9,3 +9,8 @@ AtOS is a C# written OS (Operating System) Using The Cosmos Operating System Dev
 - Networking
 - GUI
 --------------------------------------
+# Build
+
+- Current Build = 0.00006781B (STILL IN DEVELOPMENT
+
+--------------------------------------
