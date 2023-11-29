@@ -12,7 +12,7 @@ AtOS is a C# written OS (Operating System) Using The Cosmos Operating System Dev
 - File System
 - Networking
 - GUI
-- MULTI DISK SUPPORT (SO WHEN U HAVE 2 HDDS, OR A DOM(DISK ON MODULE), OR A CF(COMPACT FLASH))
+- MULTI DISK SUPPORT (SO WHEN U HAVE 2 HDDS, OR A DOM(DISK ON MODULE) AND A HDD, OR A CF(COMPACT FLASH) AND A HDD/DOM)
 --------------------------------------
 # Build
 
